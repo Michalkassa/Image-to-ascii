@@ -36,8 +36,8 @@ python main.py
 
 
 # Original
-![original](./input/image.jpg)
+<img src="./input/image.jpg" />
 
 
 # ASCII-FIED
-![after running the program](./output/output.txt)
+<img src="./output/output.txt" />
