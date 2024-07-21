@@ -30,3 +30,14 @@ python main.py
 ```
 
 4. find the txt output file in the output folder
+
+
+
+
+
+# Original
+![original](./input/image.jpg)
+
+
+# ASCII-FIED
+![after running the program](./output/output.txt)
