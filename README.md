@@ -31,13 +31,3 @@ python main.py
 
 4. find the txt output file in the output folder
 
-
-
-
-
-# Original
-<img src="./input/image.jpg" width="200"/>
-
-
-# ASCII-FIED
-<img src="./output/output.txt" width="200"/>
